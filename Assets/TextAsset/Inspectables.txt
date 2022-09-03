@@ -1,0 +1,4 @@
+An Ordinary Cube
+This is an ordinary cube. It hasn't any function but it's blue. You can inspect and take it.
+Only Inspect Cube
+This is an ordinary cube but red. It hasn't any function and you can't take it.
